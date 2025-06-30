@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Shubham Singh Saini</h1>
+<h1 align="center">Hey👋, I'm Shubham Singh Saini</h1>
 
 <div align="center">
   <p>🚀 Turning ideas into scalable software | Full-Stack Developer in the making  </p>
